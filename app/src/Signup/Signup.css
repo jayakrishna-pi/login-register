@@ -1,0 +1,21 @@
+.signup-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+
+
+}
+input{
+    margin-top: 15px;
+    height: 30px;
+    width:300px;
+    padding-left: 10px;
+}
+button{
+    height:40px;
+    width:130px;
+    margin-top: 18px;
+    cursor: pointer;
+}

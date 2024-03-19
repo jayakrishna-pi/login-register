@@ -1,0 +1,19 @@
+div{
+    height:100vh;
+    display:flex ;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:#6196e4;
+}
+button{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border-width: 0px;
+}
+input{
+    margin: 10px;
+    border-width: 0px;
+    outline-width: 0px;
+}
